@@ -1,0 +1,10 @@
+Realice un programa que calcule el area y perimetro de las siguientes figuras:
+
+*Cuadrado
+*Circulo
+*Triangulo
+*Pentagono
+
+Debe darte la opción de elegir de que figura y que operación quieres elegir o si no siempre debe existir la opción de salir
+
+Nota:Los datos los tiene que pasar el usuario
